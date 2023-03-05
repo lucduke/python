@@ -14,6 +14,7 @@ echo "Debut du script"
 echo "----------------------------------------------------------------"
 
 # MAJ  Github
+git pull
 echo "MAJ Repo Python"
 git add .
 git commit -m "Update"
